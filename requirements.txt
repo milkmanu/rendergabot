@@ -1,0 +1,6 @@
+
+pip>=23.1
+setuptools>=67.0
+wheel
+aiogram==3.3.0
+python-dotenv
